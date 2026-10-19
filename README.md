@@ -1,16 +1,14 @@
-## Hi there 👋
+# Santiago Barreto Prieto
 
-<!--
-**santiagobapr-coder/santiagobapr-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Químico orientado a los datos. Análisis de datos, reportes y automatización de procesos.
 
-Here are some ideas to get you started:
+## Herramientas
+SQL · Python (pandas) · Power BI · Power Query · Power Automate · Excel avanzado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En proceso
+- Maestría en Analítica Aplicada (Universidad de La Sabana)
+- Certificados de Kaggle: Intro to SQL y Pandas
+- freeCodeCamp: Data Analysis with Python
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/santiago-barreto-prieto/)
